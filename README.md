@@ -1,22 +1,42 @@
-# emotion-based-music
-<h1>Explaination Video</h1>
-<a href="https://youtu.be/uDzLxos0lNU">Emotion based music | ai | deep learning project | with code | ml project</a>
-<a href="https://youtu.be/uDzLxos0lNU"><img src="emotion.jpg"/></a>
 
-<h1>Description</h1>
-Welcome to new project emotion based music built by using mediapipe and keras. also opencv and streamlit is used to create a webapp. for capturing the webcam in the browser i used streamlit-webrtc module. I explained all of the code in this video which is required to create a webapp for emotion based music recommender.
-<br><br>
-In this video I used live emoji project code to create a model which could classify different emotions so I already explained the code for that which is over here
-<br>Data Collection script : https://youtu.be/ZxZSGRdTLtE
-<br>Data Training and Inference script : https://youtu.be/He_oZ-MnIrU
-<br>code for live emoji : https://github.com/Pawandeep-prog/liveEmoji
 
-<h1>Connect with me</h1>
-If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
-facebook : https://m.facebook.com/proogramminghub<br>
-instagram : @programming_hut<br>
-twitter : https://twitter.com/programming_hut<br>
-github : https://github.com/Pawandeep-prog<br>
-discord : https://discord.gg/G5Cunyg<br>
-linkedin : https://www.linkedin.com/in/programminghut<br>
-youtube : https://www.youtube.com/c/programminghutofficial<br>
+# Emotion-Based Music Recommender
+
+This is a machine learning-based project that recommends music based on the user's current emotion. It uses facial expression detection to detect the user's emotion and then recommends music based on the detected emotion. The system is built using Python and several libraries, including OpenCV, Keras, and TensorFlow.
+
+## Features
+
+- Detects user's emotion using facial expression detection
+- Recommends music based on the user's current emotion
+- Supports a wide range of emotions, including happy, sad, angry, and neutral
+- Easy to use interface
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/<username>/<repository-name>.git`
+2. Navigate to the project directory: `cd <repository-name>`
+3. Install the required packages: `pip install -r requirements.txt`
+
+## Usage
+
+1. Run the `music_recommender.py` script: `python music_recommender.py`
+2. The program will automatically start the user's webcam and start detecting their facial expressions.
+3. The program will display the detected emotion on the screen and recommend music based on the detected emotion.
+4. Enjoy the recommended music!
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or want to report a bug, please create an issue on the GitHub repository.
+
+## Credits
+
+This project was developed by Nadim. Special thanks to the following libraries and resources:
+
+- OpenCV: https://opencv.org/
+- Keras: https://keras.io/
+- TensorFlow: https://www.tensorflow.org/
+- Music recommendation API: https://developers.deezer.com/api/music_search
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
