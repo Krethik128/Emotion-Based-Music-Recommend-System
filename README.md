@@ -30,7 +30,7 @@ Contributions are welcome! If you have any suggestions or want to report a bug, 
 
 ## Credits
 
-This project was developed by Nadim. Special thanks to the following libraries and resources:
+This project was developed by Krethik. Special thanks to the following libraries and resources:
 
 - OpenCV: https://opencv.org/
 - Keras: https://keras.io/
